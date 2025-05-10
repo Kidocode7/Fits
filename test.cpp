@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
 
-    cout << "Wellcome to TETRIS";
+    cout << "Wellcome to Fits!";
 
     return 0;
 }
